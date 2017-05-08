@@ -1,0 +1,6 @@
+.mm-margin{
+ margin: 0;
+}
+.navbar navbar-default mm-margin {
+	background-color:#676767
+}
